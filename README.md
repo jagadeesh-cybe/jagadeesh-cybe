@@ -6,9 +6,9 @@ I'm truly fascinated by technology and its ability to transform the world around
 My GitHub profile is a reflection of my dedication to coding, collaborating, and creating innovative solutions.
 
 **Skills:**
-🚀 Programming Languages: Python, JavaScript, Java
+🚀 Programming Languages: Python, JavaScript,
 
-🔧 Frameworks: React, Django, Spring Boot
+🔧 Frameworks: React, Next js
 
 💻 Front-end Development: HTML5, CSS3, Sass, Bootstrap
 
@@ -18,7 +18,6 @@ My GitHub profile is a reflection of my dedication to coding, collaborating, and
 
 🌐 Web Technologies: RESTful APIs, GraphQL, Websockets
 
-📊 Data Analysis: Pandas, NumPy, Matplotlib
 
 **Contributions:**
 ✨ Open Source: Actively contributing to various open source projects, including [Image Encryption Using Cryptography] and [NFT Website]. Passionate about collaborating with developers worldwide to build amazing software.
@@ -26,6 +25,7 @@ My GitHub profile is a reflection of my dedication to coding, collaborating, and
 💬 Blogging: Sharing insights and knowledge through tech articles on my personal blog. Topics cover a range of subjects including web development, data analysis, and software engineering best practices.
 
 **Experience:**
+Full time : FIleago - web developer
 Internship:
 [Pentagon Space]: Java Full Stack Developer 
 🎓 Education:
