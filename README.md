@@ -35,7 +35,7 @@ Internship:
 [AWS CERTIFICATION]: [Infosys]
 Let's connect and collaborate! Feel free to reach out via email or connect with me on LinkedIn. Let's create something amazing together! 🚀
 
-![image](https://github.com/JAGADEESHWARAN20/JAGADEESHWARAN20/assets/66456490/13698552-7546-4a05-a8f4-580b95f44411)
-https://jagadeesh-me.netlify.app/
 
+portfolio 1 - https://jagadeesh-me.netlify.app/
+Portfolio 2 - Building
 
