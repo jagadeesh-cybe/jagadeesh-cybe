@@ -37,5 +37,5 @@ Let's connect and collaborate! Feel free to reach out via email or connect with 
 
 
 portfolio 1 - https://jagadeesh-me.netlify.app/
-Portfolio 2 - Building
+Portfolio 2 - [Building](https://jagadeeshwaran-dev.vercel.app/)
 
