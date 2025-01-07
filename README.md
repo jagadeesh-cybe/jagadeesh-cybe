@@ -52,7 +52,7 @@ I am a passionate **Web Developer** with experience in **React.js**, **Next.js**
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code">
   </a>
   <a href="https://www.mysql.com/">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+    <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
   </a>
   <a href="https://www.sqlite.org/">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite">
@@ -70,6 +70,7 @@ I am a passionate **Web Developer** with experience in **React.js**, **Next.js**
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3">
   </a>
 </p>
+
 
 ---
 
