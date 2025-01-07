@@ -1,16 +1,26 @@
-Hi , I'm Jagadeeshwaran 
-Working as a Web designer and Frontend Developer 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there&fontAlign=53&animation=fadeIn"/>
+  <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there&fontAlign=53&animation=fadeIn"/>
 </p>
 
+# I'm Jagadeeshwaran
+Working as a Web designer and Frontend Developer 
 
-# Hi there! 👋 Welcome to My GitHub Profile
+
+
+#  Welcome to My GitHub Profile
 
 ## 🚀 About Me
 
 I am a passionate **Web Developer** with experience in **React.js**, **Next.js**, and **Tailwind CSS**. I love crafting user-friendly and efficient applications while constantly learning new technologies.
+
+<p align="left">
+  <a href="https://jagadeeshwaran-dev20.vercel.app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="40px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jagadeeshwaran-20-sp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
+  </a>
+</p>
 
 ---
 
@@ -69,37 +79,26 @@ I am a passionate **Web Developer** with experience in **React.js**, **Next.js**
 
 A task management application to create, update, and organize daily tasks efficiently. 
 
-#### **Tech Stack Visualization:**
+#### **Tech Stack:**
 
-<p align="center">
+<p align="left">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB">
 </p>
 
-### **[Project 2](#)**
-Description of the project.
-
-### **[Project 3](#)**
-Description of the project.
-
 ---
 
-## 📫 Connect With Me
 
-- Portfolio: [jagadeeshwaran-dev20.vercel.app](https://jagadeeshwaran-dev20.vercel.app)
-- LinkedIn: [Jagadeeshwaran](#)
-- Instagram: [cashcanvascreator](https://www.instagram.com/cashcanvascreator/)
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAGADEESHWARAN20&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAGADEESHWARAN20&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGADEESHWARAN20&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
