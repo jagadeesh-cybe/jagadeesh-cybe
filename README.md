@@ -1,11 +1,11 @@
-# Front End / Web design / UI design # 
-
 Hi , I'm Jagadeeshwaran 
 Working as a Web designer and Frontend Developer 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there&fontAlign=53&animation=fadeIn"/>
 </p>
+
+
 # Hi there! 👋 Welcome to My GitHub Profile
 
 ## 🚀 About Me
@@ -65,9 +65,24 @@ I am a passionate **Web Developer** with experience in **React.js**, **Next.js**
 
 ## 🌟 Projects
 
-- **[Project 1](#)** - Description of the project.
-- **[Project 2](#)** - Description of the project.
-- **[Project 3](#)** - Description of the project.
+### **[ToDo App](https://github.com/JAGADEESHWARAN20/todoApp)**
+
+A task management application to create, update, and organize daily tasks efficiently. 
+
+#### **Tech Stack Visualization:**
+
+<p align="center">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB">
+</p>
+
+### **[Project 2](#)**
+Description of the project.
+
+### **[Project 3](#)**
+Description of the project.
 
 ---
 
@@ -82,9 +97,9 @@ I am a passionate **Web Developer** with experience in **React.js**, **Next.js**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGADEESHWARAN20&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAGADEESHWARAN20&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGADEESHWARAN20&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
