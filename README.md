@@ -96,11 +96,11 @@ A task management application to create, update, and organize daily tasks effici
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGADEESHWARAN20&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAGADEESHWARAN20&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGADEESHWARAN20&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAGADEESHWARAN20&show_icons=true&theme=react" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAGADEESHWARAN20&theme=react" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGADEESHWARAN20&layout=compact&theme=react" alt="Top Languages">
+</div>
 
 ---
 
